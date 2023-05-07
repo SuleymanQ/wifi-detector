@@ -19,7 +19,7 @@ await currentStore.refresher();
       <CurrentInfo />
     </template>
     <template v-else>
-      <img src="modem.png" class="w-10/12" />
+      <img src="~~/assets/modem.png" class="w-10/12" />
     </template>
   </div>
 </template>
