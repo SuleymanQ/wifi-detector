@@ -1,0 +1,27 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@types/node": "^18",
+    "@unocss/nuxt": "^0.51.12",
+    "nuxt": "^3.4.3"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.4.9",
+    "apexcharts": "^3.40.0",
+    "element-plus": "^2.3.4",
+    "internet-available": "^1.0.0",
+    "local-devices": "^4.0.0",
+    "node-wifi": "^2.0.16",
+    "pinia": "^2.0.35",
+    "speedtest-net": "^2.2.0",
+    "vue3-apexcharts": "^1.4.1"
+  }
+}
